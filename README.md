@@ -8,6 +8,5 @@
 
 ##产品/零部件数据结构（对象构成）：##
 +   1.[产品的定义](./public/product.md)
-+   1.[Product]:    ./public/product.md "产品的定义"
-+   1.[Part]:  ./public/part.md  "部件的定义"
-+   2.[Element]:    ./public/element.md "零件定义" 
++   2.[部件的定义](./public/part.md)
++   3.[零件的定义](./public/element.md)
