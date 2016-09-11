@@ -16,4 +16,5 @@ public ckass part
     
     bool haveSubParts;  //是否含有子部件
     
+   
 }
