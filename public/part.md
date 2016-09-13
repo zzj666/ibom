@@ -14,7 +14,9 @@ public ckass part
     
     bool isSubParts;  //是否为子部件
     
-    bool haveSubParts;  //是否含有子部件
+    int haveSubParts;  //含有子部件数量，0 为不含子部件
+    
+    int havaSubProducts;  // 含有零件数量，0为独立部件
     
    
 }
