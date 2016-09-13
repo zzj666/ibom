@@ -21,4 +21,5 @@ public clsss product
         
         string discription;  //其它说明
         
+        int havaSubParts; // 含有分总成的数量
 }
