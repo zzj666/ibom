@@ -7,7 +7,6 @@
 // 3 "机->装"
 // 4 "焊->机->装"
 
-'''
     private string ProcessRoute(int routeCode;)
     {
         if(routeCode == 1)
