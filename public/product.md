@@ -1,4 +1,5 @@
-#关于产品的定义#
+#关于产品的定义
+##产品信息
 
     public clsss product
     {
@@ -13,3 +14,4 @@
         string discription;  //其它说明
         int havaSubParts; // 含有分总成的数量
     }
+
